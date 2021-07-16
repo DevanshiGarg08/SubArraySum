@@ -1,3 +1,4 @@
+```bash
 ├── lib
 │   ├── data_services
 │   │   └── hive
@@ -30,3 +31,4 @@
 │   │   └── theme_model.dart
 │   ├── app.dart
 │   └── main.dart
+```
